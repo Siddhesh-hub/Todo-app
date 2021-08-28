@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cadmium_orange">#ef8354</color>
+    <color name="cool_grey">#4f5d75</color>
+    <color name="toner_grey">#bfc0c0</color>
+    <color name="warm_grey">#2d3142</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#ffffffff</color>
+</resources>
